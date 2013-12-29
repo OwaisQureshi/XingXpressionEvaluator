@@ -1,0 +1,9 @@
+F:\DevWorks\expressionParser\expressionParser\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DevWorks\expressionParser\expressionParser\bin\Debug\expressionParser.exe
+F:\DevWorks\expressionParser\expressionParser\bin\Debug\expressionParser.pdb
+F:\DevWorks\expressionParser\expressionParser\obj\x86\Debug\expressionParser.exe
+F:\DevWorks\expressionParser\expressionParser\obj\x86\Debug\expressionParser.pdb
+F:\DevWorks\expressionParser\expressionParser\bin\Debug\nunit.framework.dll
+F:\DevWorks\expressionParser\expressionParser\bin\Debug\nunit.framework.xml
+F:\DevWorks\expressionParser\expressionParser\bin\Debug\XingXpressionEvaluator.dll
+F:\DevWorks\expressionParser\expressionParser\bin\Debug\XingXpressionEvaluator.pdb

@@ -1,0 +1,5 @@
+F:\DevWorks\expressionParser\XingXpressionEvaluator\obj\Debug\ResolveAssemblyReference.cache
+F:\DevWorks\expressionParser\XingXpressionEvaluator\bin\Debug\XingXpressionEvaluator.dll
+F:\DevWorks\expressionParser\XingXpressionEvaluator\bin\Debug\XingXpressionEvaluator.pdb
+F:\DevWorks\expressionParser\XingXpressionEvaluator\obj\Debug\XingXpressionEvaluator.dll
+F:\DevWorks\expressionParser\XingXpressionEvaluator\obj\Debug\XingXpressionEvaluator.pdb
